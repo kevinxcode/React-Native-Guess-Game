@@ -29,7 +29,6 @@ function StartGameScreen({onPickNumber}){
        
     }
 
- 
 
     return (
     <View style={styles.inputContainer}>
